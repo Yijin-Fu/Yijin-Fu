@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/Yijin-Fu
+Hi everyone, nice to meet all of you here. My name is Yijin, and I have a BS degree in statistics field as well as a MS in Business Analytics. Currently I am pursuing job positions as a Data Analyst. I've got some basic knowledge of programming languages, such as SQL, R, Python, which supports data query and analysis. I'm proficient in using Microsoft products (i.e., Excel, word, PPT, etc.) and other visualizaiton tools, such as Tableau. As for my personality, I am really interested in learning how to use new techniques and good at adapting new techs, for example AI. I enjoy analyzing and designing business processes such as production and operations systems. I am passionated about everything about data. Pressure is not a negative feeling to me, I can handle the stress and stick to tasks, no matter how challenging they are. I am not a person who is easy to say "NO". Last but not least, I give equal respects to everyone. I am looking forward to have a teamwork with all of you.
