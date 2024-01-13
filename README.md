@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone, nice to meet all of you here. My name is Yijin, and I have a BS degree in statistics field as well as a MS in Business Analytics. Currently I am pursuing job positions as a Data Analyst. I've got some basic knowledge of programming languages, such as SQL, R, Python, which supports data query and analysis. I'm proficient in using Microsoft products (i.e., Excel, word, PPT, etc.) and other visualizaiton tools, such as Tableau. As for my personality, I am really interested in learning how to use new techniques and good at adapting new techs, for example AI. I enjoy analyzing and designing business processes such as production and operations systems. I am passionated about everything about data. Pressure is not a negative feeling to me, I can handle the stress and stick to tasks, no matter how challenging they are. I am not a person who is easy to say "NO". Last but not least, I give equal respects to everyone. I am looking forward to have a teamwork with all of you.
+![Hello GIF](hello.gif)
+
+Hi everyone, nice to meet all of you here. I possess eight years of higher education experience in Canada and the United States. I hold a Bachelor's degree in Statistics and a Master’s degree in Business Analytics from the United States. Beyond my expertise in STEM fields, I also delve into brand management and marketing analytics within the Canadian market.
+
+As an experienced marketing data analyst, I have four years of experience using business intelligence software such as Tableau and Power BI. Additionally, I am highly proficient in utilizing SQL, Python, and R programming languages to navigate complex data. My keen attention to detail, coupled with solid skills and a rapid learning ability, allows me to quickly extract business insights from data.
+
+I am deeply enthusiastic about conducting thorough market research, copywriting, and storytelling. With a focus on the e-commerce sector, I bring two years of experience leveraging social media channels such as YouTube, TikTok and Instagram for marketing purposes and analyzing digital data to stay abreast of trends. This enables me to identify beneficial opportunities for many companies. As a strategic marketer, I excel in identifying opportunities and resolving marketing challenges using scientific methods.
+
