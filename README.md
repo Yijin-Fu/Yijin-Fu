@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Hello GIF](hello.gif)
 
-Hi everyone, nice to meet all of you here. I possess eight years of higher education experience in Canada and the United States. I hold a Bachelor's degree in Statistics and a Master’s degree in Business Analytics from the United States. Beyond my expertise in STEM fields, I also delve into brand management and marketing analytics within the Canadian market.
+ice to meet all of you here. My name is Yijin. I possess eight years of higher education experience in Canada and the United States. I hold a Bachelor's degree in Statistics and a Master’s degree in Business Analytics from the United States. Beyond my expertise in STEM fields, I also delve into brand management and marketing analytics within the Canadian market.
 
 As an experienced marketing data analyst, I have four years of experience using business intelligence software such as Tableau and Power BI. Additionally, I am highly proficient in utilizing SQL, Python, and R programming languages to navigate complex data. My keen attention to detail, coupled with solid skills and a rapid learning ability, allows me to quickly extract business insights from data.
 
