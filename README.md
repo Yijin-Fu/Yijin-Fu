@@ -25,3 +25,5 @@ I am deeply enthusiastic about conducting thorough market research, copywriting,
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+<img width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="MySQL" title="MySQL"/>
+
