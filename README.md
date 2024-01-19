@@ -23,6 +23,4 @@ As an experienced marketing data analyst, I have four years of experience using 
 
 I am deeply enthusiastic about conducting thorough market research, copywriting, and storytelling. With a focus on the e-commerce sector, I bring two years of experience leveraging social media channels such as YouTube, TikTok and Instagram for marketing purposes and analyzing digital data to stay abreast of trends. This enables me to identify beneficial opportunities for many companies. As a strategic marketer, I excel in identifying opportunities and resolving marketing challenges using scientific methods.
 
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-</div>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
