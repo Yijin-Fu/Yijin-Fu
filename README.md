@@ -23,24 +23,6 @@ As an experienced marketing data analyst, I have four years of experience using 
 
 I am deeply enthusiastic about conducting thorough market research, copywriting, and storytelling. With a focus on the e-commerce sector, I bring two years of experience leveraging social media channels such as YouTube, TikTok and Instagram for marketing purposes and analyzing digital data to stay abreast of trends. This enables me to identify beneficial opportunities for many companies. As a strategic marketer, I excel in identifying opportunities and resolving marketing challenges using scientific methods.
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite)]
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+</div>
