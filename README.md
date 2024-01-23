@@ -29,3 +29,6 @@ I am deeply enthusiastic about conducting thorough market research, copywriting,
 ![My Skills](https://skillicons.dev/icons?i=github)
 ![My Skills](https://skillicons.dev/icons?i=r)
 <img width="45" height="45" alt="looker" src="https://github.com/Yijin-Fu/Yijin-Fu/assets/73370048/c0ad922d-f43c-437f-9a12-ed15956a0744">
+
+## My Personal Website
+[Link to Projects](https://yijin-fu.github.io/yijinfu.github.io/)
